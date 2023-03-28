@@ -1,0 +1,208 @@
+/* Header */
+
+.nav-link {
+    color: orangered;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-right: 30px;
+}
+
+.navbar{
+  background: orange;
+}
+
+.nav-item {
+  color: orangered;
+}
+
+.img {
+    display: flex;
+    border-radius: 15%;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+
+img {
+    width: 150px;
+}
+
+
+
+
+/* general  */
+
+.btn-primary {
+    background-color: orangered;
+}
+
+h1 {
+  font-family: papyrus;
+  font-size: 32;
+  color: orangered;
+  margin-top: 30px;
+}
+
+a {
+  color: orangered;
+}
+
+#opaque {
+  opacity: 0.8
+}
+
+
+
+/* Cards */
+
+.card {
+  
+  background-color: rgb(254, 249, 249);
+  border: solid 1px;
+  margin: 10px;
+  
+}
+
+
+
+li {
+  font-size: large;
+  list-style: none;
+}
+
+.title{
+  font-weight: bold;
+font-family: 'papyrus';
+color: orangered;
+margin-top: 20px;
+margin-left: 8%;;
+}
+
+.sfondo {
+  display: flex;
+  padding: 50px;
+}
+
+
+.img-fluid {
+  height: 100%;
+  width: 100%;
+}
+
+.card-title {
+  color: orangered;
+}
+
+
+
+
+
+
+
+/* Icons */
+
+.icon {
+  width: 16px;
+  color: orangered;
+}
+
+
+
+
+/* In evidenza */
+
+
+.Element-inevidenza {
+  background-color: rgb(234, 229, 229);
+  padding: 50px;
+  margin-top: 30px;
+}
+
+
+
+.second-class {
+  background-color: rgb(234, 229, 229);
+  margin-top: 0px;
+}
+
+.heading-inevidenza {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 40px;
+  font-weight: bold;
+}
+
+#mb-3{
+  background-color: rgb(254, 249, 249);
+  border: solid 1px;
+  margin: 10px;
+  width: 80%;
+  border-radius: 2%;
+  margin-left: 50px;
+  
+}
+
+.card-text, .card-title, .card-link {
+  display: flex;
+  justify-content: flex-start;
+  margin: 10px;
+}
+
+.card-img-top {
+  border-radius: 2%;
+}
+
+/*Footer*/
+
+#footer-logo {
+  width: 10%;
+}
+
+
+
+.copyright {
+  display: flex;
+ justify-content: center;
+  color: orangered;
+  margin-top: 20px;
+  margin-bottom: 15px;
+  
+}
+
+
+.paragrafo-interno {
+  color : black;
+  font-weight: bold;
+  font-size: large;
+}
+
+.px-4 {
+  display: flex;
+  justify-content: center;
+}
+
+
+/*Contatti */
+
+
+.d-block {
+  color:orangered;
+}
+
+h5 {
+  color: orangered;
+}
+
+/* responsive */
+
+@media only screen and (max-width:570px) {
+  .px-4 {display:inline}
+}
+
+/* Menù di fondo */
+
+.container-menu {
+  background-color: rgb(234, 229, 229);
+  margin-left: 50px;
+}
+
